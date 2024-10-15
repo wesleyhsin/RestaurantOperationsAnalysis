@@ -14,7 +14,6 @@ Restaurant Operations Analysis
 
 
 
-
 Objective 1: Exploer the Items table
 - View the menu_items table and write a query to find the number of items on the menu
 
@@ -40,6 +39,11 @@ Objective 3: Analyze Customer Behavior
 
 - What were the top 5 orders that spent the most money?
 
+Order ID 440, 2075, 1957, 330, 2675
+
 - View the details of the highest spend order. What insights can you gather from the results?
 
+Query shows that Italian followed by Asian food are the most popular category.
+
 - Bonus: View the details of the top 5 highest spend orders. What insights can you gatgher from the results?
+  
